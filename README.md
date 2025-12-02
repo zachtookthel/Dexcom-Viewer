@@ -7,3 +7,7 @@ It allows anyone to view their dexcom readings on a simple pc window
 Just enter your account details at boot, or add into the code yourself
 
 Enjoy :)
+
+REQUIRED PACKAGES (can be installed via pip):
+Pydexcom
+Pygame
